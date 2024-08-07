@@ -1,0 +1,10 @@
+appid,appname,environments,memory_usage,memory_allocated,cpu_usage,cpu_allocated
+123,AppOne,Development,500,1000,50,100
+123,AppOne,Staging,300,1000,30,100
+123,AppOne,Production,700,1000,70,100
+456,AppTwo,Development,200,800,20,80
+456,AppTwo,Staging,400,800,40,80
+456,AppTwo,Production,600,800,60,80
+789,AppThree,Development,250,500,25,50
+789,AppThree,Staging,350,500,35,50
+789,AppThree,Production,450,500,45,50
